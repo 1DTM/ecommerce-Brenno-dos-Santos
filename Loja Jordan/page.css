@@ -115,11 +115,15 @@
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    width: 65vw;
+    width: 40vw;
     
 
 }
-
+.cards img{
+    
+    width: 150px;
+    flex-wrap: wrap;
+}
 
 
 .tamanho{
