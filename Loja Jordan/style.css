@@ -1,0 +1,102 @@
+*{
+    
+}
+.desconto{
+    background-color: rgba(0, 174, 255, 1);
+    color: #181818;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.JordanShoes{
+    color: #181818;
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+nav{
+    width: 1440px;
+height: 60px;
+flex-shrink: 0;
+}
+.imagem{
+    background-image: url(img/Air-Jordan-1-Retro-High-OG-Wmns-TWIST-Feminino\ 1.png);
+   color: white;
+   width: 100%;
+height: 378px;
+flex-shrink: 0;
+justify-content: center;
+flex-direction: column;
+display: flex;
+
+}
+.imagem h1{
+    display: flex;
+    
+    color: #F9F9F9;
+font-family: Montserrat;
+font-size: 48px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+.imagem p{
+    color: #F9F9F9;
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 160%; 
+}
+.container{
+    display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+margin-top: 50px;
+}
+.conjunto{
+    display: flex;
+    flex-wrap: wrap;
+    gap:20px ;
+    margin-top: 25px;
+    justify-content: center;
+    
+  
+   
+}
+.fim{
+    background-color: rgba(0, 174, 255, 1);
+    color: #181818;
+font-family: "Montserrat";
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top:  100px;
+}
+.box{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    width: 415px;
+height: 302px;
+
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+}
